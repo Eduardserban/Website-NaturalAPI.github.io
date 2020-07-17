@@ -17,5 +17,4 @@ _**Follow the instruction in the [User manual v.1.0.0](link) to know about the f
 2. Click the "View on Github" button;
 3. Click on the "Clone/Download" button;
 4. Download the repo in .zip;
-5. Pull it out to the desired position;
-6. To start running the program follow the instructions in the User manual supplied with the product.
+5. To start running the program follow the instructions in the User manual supplied with the product.
