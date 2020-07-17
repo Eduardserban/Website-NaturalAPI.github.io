@@ -5,7 +5,8 @@
 The project is created by the **HexaTech** team for the _**Software Engineering**_ exam of the *Degree Course in Computer Science of the University of Padua*.
 
 ### To download NaturalAPI:
-(download button)
+[Download GUI](https://github.com/Hexatech016/Website-NaturalAPI.github.io/blob/master/NaturalAPIGUI.jar)
+[Download CLI](https://github.com/Hexatech016/Website-NaturalAPI.github.io/blob/master/NaturalAPICLI.jar)
 
 _**Follow the instruction in the [User manual v.1.0.0](https://github.com/Hexatech016/Website-NaturalAPI.github.io/blob/master/Documents/userManual.pdf) to know about the files needed by NaturalAPI**_ 
 
